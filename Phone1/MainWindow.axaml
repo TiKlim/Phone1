@@ -1,0 +1,504 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Phone1.MainWindow"
+        Title="Phone1"
+        MaxWidth="1920"
+        MinWidth="1920"
+        MaxHeight="1080"
+        MinHeight="1080">
+        
+        <StackPanel Orientation="Horizontal">
+	        <StackPanel
+		                Margin="300,300,0,0"
+		                Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox Name="a1" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a2" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a3" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a4" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a5" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a6" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a7" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a8" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a9" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a10" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="50,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox Name="a11" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a12" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a13" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a14" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a15" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a16" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a17" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a18" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a19" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a20" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="50,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox Name="a21" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a22" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a23" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a24" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a25" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a26" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a27" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a28" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a29" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a30" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="400,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox Name="a31" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a32" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a33" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a34" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a35" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a36" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a37" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a38" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a39" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a40" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="50,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox Name="a41" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a42" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a43" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a44" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a45" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a46" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a47" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a48" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a49" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a50" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="50,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox Name="a51" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a52" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a53" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a54" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a55" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a56" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a57" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a58" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a59" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox Name="a60" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+	        <StackPanel
+		        Margin="400,300,0,0"
+		        Orientation="Horizontal">
+		        <StackPanel Background="White">
+			        <CheckBox Name="a61" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a62" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a63" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a64" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a65" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a66" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a67" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a68" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a69" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a70" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+		        </StackPanel>
+	        </StackPanel>
+	        <StackPanel
+		        Margin="50,300,0,0"
+		        Orientation="Horizontal">
+		        <StackPanel Background="White">
+			        <CheckBox Name="a71" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a72" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a73" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a74" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a75" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a76" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a77" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a78" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a79" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a80" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+		        </StackPanel>
+	        </StackPanel>
+	        <StackPanel
+		        Margin="50,300,0,0"
+		        Orientation="Horizontal">
+		        <StackPanel Background="White">
+			        <CheckBox Name="a81" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a82" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a83" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a84" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a85" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a86" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a87" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a88" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a89" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a90" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+		        </StackPanel>
+	        </StackPanel>
+	        <StackPanel
+		        Margin="50,300,0,0"
+		        Orientation="Horizontal">
+		        <StackPanel Background="White">
+			        <CheckBox Name="a91" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a92" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a93" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a94" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a95" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a96" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a97" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a98" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a99" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			        <CheckBox Name="a100" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+		        </StackPanel>
+	        </StackPanel>
+		<TextBlock
+			Margin="-840,100,0,300" 
+			FontSize="50" 
+			FontWeight="DemiBold" 
+			VerticalAlignment="Bottom"
+			HorizontalAlignment="Center"
+			Name="message">		
+		</TextBlock>
+		<Button Name="Buuton" Margin="-1450,890,-800,400" Width="150" Height="50" HorizontalAlignment="Left" Background="Blue">
+			<TextBlock FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="AliceBlue">
+				Next
+			</TextBlock>
+		</Button>
+		<TextBlock
+			Margin="-1465,170,200,600" 
+			FontSize="30" 
+			FontWeight="DemiBold" 
+			VerticalAlignment="Top"
+			HorizontalAlignment="Left"> Please enter your phone number using the checkboxes: 				
+		</TextBlock>
+	        <TextBlock Margin="-1460,303,200,600" FontSize="20">
+		        0: 
+	        </TextBlock>
+	        <TextBlock Margin="-1460,334,200,600" FontSize="20">
+		        1:
+	        </TextBlock>
+	        <TextBlock Margin="-1460,366,200,600" FontSize="20">
+		        2:
+	        </TextBlock>
+	        <TextBlock Margin="-1460,398,200,600" FontSize="20">
+		        3:
+	        </TextBlock>
+	        <TextBlock Margin="-1460,432,200,600" FontSize="20">
+		        4:
+	        </TextBlock>
+	        <TextBlock Margin="-1460,464,200,600" FontSize="20">
+		        5:
+	        </TextBlock>
+	        <TextBlock Margin="-1460,496,200,600" FontSize="20">
+		        6:
+	        </TextBlock>
+	        <TextBlock Margin="-1460,530,200,600" FontSize="20">
+		        7:
+	        </TextBlock>
+	        <TextBlock Margin="-1460,560,200,600" FontSize="20">
+		        8:
+	        </TextBlock>
+	        <TextBlock Margin="-1460,592,200,600" FontSize="20">
+		        9:
+	        </TextBlock>
+	        
+	        <TextBlock Margin="-1380,303,200,600" FontSize="20">
+		        0:
+	        </TextBlock>
+	        <TextBlock Margin="-1380,334,200,600" FontSize="20">
+		        1:
+	        </TextBlock>
+	        <TextBlock Margin="-1380,366,200,600" FontSize="20">
+		        2:
+	        </TextBlock>
+	        <TextBlock Margin="-1380,398,200,600" FontSize="20">
+		        3:
+	        </TextBlock>
+	        <TextBlock Margin="-1380,432,200,600" FontSize="20">
+		        4:
+	        </TextBlock>
+	        <TextBlock Margin="-1380,464,200,600" FontSize="20">
+		        5:
+	        </TextBlock>
+	        <TextBlock Margin="-1380,496,200,600" FontSize="20">
+		        6:
+	        </TextBlock>
+	        <TextBlock Margin="-1380,530,200,600" FontSize="20">
+		        7:
+	        </TextBlock>
+	        <TextBlock Margin="-1380,560,200,600" FontSize="20">
+		        8:
+	        </TextBlock>
+	        <TextBlock Margin="-1380,592,200,600" FontSize="20">
+		        9:
+	        </TextBlock>
+	        
+	        <TextBlock Margin="-1300,303,200,600" FontSize="20">
+		        0:
+	        </TextBlock>
+	        <TextBlock Margin="-1300,334,200,600" FontSize="20">
+		        1:
+	        </TextBlock>
+	        <TextBlock Margin="-1300,366,200,600" FontSize="20">
+		        2:
+	        </TextBlock>
+	        <TextBlock Margin="-1300,398,200,600" FontSize="20">
+		        3:
+	        </TextBlock>
+	        <TextBlock Margin="-1300,432,200,600" FontSize="20">
+		        4:
+	        </TextBlock>
+	        <TextBlock Margin="-1300,464,200,600" FontSize="20">
+		        5:
+	        </TextBlock>
+	        <TextBlock Margin="-1300,496,200,600" FontSize="20">
+		        6:
+	        </TextBlock>
+	        <TextBlock Margin="-1300,530,200,600" FontSize="20">
+		        7:
+	        </TextBlock>
+	        <TextBlock Margin="-1300,560,200,600" FontSize="20">
+		        8:
+	        </TextBlock>
+	        <TextBlock Margin="-1300,592,200,600" FontSize="20">
+		        9:
+	        </TextBlock>
+	        
+	        <TextBlock Margin="-870,303,200,600" FontSize="20">
+		        0:
+	        </TextBlock>
+	        <TextBlock Margin="-870,334,200,600" FontSize="20">
+		        1:
+	        </TextBlock>
+	        <TextBlock Margin="-870,366,200,600" FontSize="20">
+		        2:
+	        </TextBlock>
+	        <TextBlock Margin="-870,398,200,600" FontSize="20">
+		        3:
+	        </TextBlock>
+	        <TextBlock Margin="-870,432,200,600" FontSize="20">
+		        4:
+	        </TextBlock>
+	        <TextBlock Margin="-870,464,200,600" FontSize="20">
+		        5:
+	        </TextBlock>
+	        <TextBlock Margin="-870,496,200,600" FontSize="20">
+		        6:
+	        </TextBlock>
+	        <TextBlock Margin="-870,530,200,600" FontSize="20">
+		        7:
+	        </TextBlock>
+	        <TextBlock Margin="-870,560,200,600" FontSize="20">
+		        8:
+	        </TextBlock>
+	        <TextBlock Margin="-870,592,200,600" FontSize="20">
+		        9:
+	        </TextBlock>
+	        
+	        <TextBlock Margin="-795,303,200,600" FontSize="20">
+		        0:
+	        </TextBlock>
+	        <TextBlock Margin="-795,334,200,600" FontSize="20">
+		        1:
+	        </TextBlock>
+	        <TextBlock Margin="-795,366,200,600" FontSize="20">
+		        2:
+	        </TextBlock>
+	        <TextBlock Margin="-795,398,200,600" FontSize="20">
+		        3:
+	        </TextBlock>
+	        <TextBlock Margin="-795,432,200,600" FontSize="20">
+		        4:
+	        </TextBlock>
+	        <TextBlock Margin="-795,464,200,600" FontSize="20">
+		        5:
+	        </TextBlock>
+	        <TextBlock Margin="-795,496,200,600" FontSize="20">
+		        6:
+	        </TextBlock>
+	        <TextBlock Margin="-795,530,200,600" FontSize="20">
+		        7:
+	        </TextBlock>
+	        <TextBlock Margin="-795,560,200,600" FontSize="20">
+		        8:
+	        </TextBlock>
+	        <TextBlock Margin="-795,592,200,600" FontSize="20">
+		        9:
+	        </TextBlock>
+	        
+	        <TextBlock Margin="-715,303,200,600" FontSize="20">
+		        0:
+	        </TextBlock>
+	        <TextBlock Margin="-715,334,200,600" FontSize="20">
+		        1:
+	        </TextBlock>
+	        <TextBlock Margin="-715,366,200,600" FontSize="20">
+		        2:
+	        </TextBlock>
+	        <TextBlock Margin="-715,398,200,600" FontSize="20">
+		        3:
+	        </TextBlock>
+	        <TextBlock Margin="-715,432,200,600" FontSize="20">
+		        4:
+	        </TextBlock>
+	        <TextBlock Margin="-715,464,200,600" FontSize="20">
+		        5:
+	        </TextBlock>
+	        <TextBlock Margin="-715,496,200,600" FontSize="20">
+		        6:
+	        </TextBlock>
+	        <TextBlock Margin="-715,530,200,600" FontSize="20">
+		        7:
+	        </TextBlock>
+	        <TextBlock Margin="-715,560,200,600" FontSize="20">
+		        8:
+	        </TextBlock>
+	        <TextBlock Margin="-715,592,200,600" FontSize="20">
+		        9:
+	        </TextBlock>
+	        
+	        <TextBlock Margin="-285,303,200,600" FontSize="20">
+		        0:
+	        </TextBlock>
+	        <TextBlock Margin="-285,334,200,600" FontSize="20">
+		        1:
+	        </TextBlock>
+	        <TextBlock Margin="-285,366,200,600" FontSize="20">
+		        2:
+	        </TextBlock>
+	        <TextBlock Margin="-285,398,200,600" FontSize="20">
+		        3:
+	        </TextBlock>
+	        <TextBlock Margin="-285,432,200,600" FontSize="20">
+		        4:
+	        </TextBlock>
+	        <TextBlock Margin="-285,464,200,600" FontSize="20">
+		        5:
+	        </TextBlock>
+	        <TextBlock Margin="-285,496,200,600" FontSize="20">
+		        6:
+	        </TextBlock>
+	        <TextBlock Margin="-285,530,200,600" FontSize="20">
+		        7:
+	        </TextBlock>
+	        <TextBlock Margin="-285,560,200,600" FontSize="20">
+		        8:
+	        </TextBlock>
+	        <TextBlock Margin="-285,592,200,600" FontSize="20">
+		        9:
+	        </TextBlock>
+	        
+	        <TextBlock Margin="-215,303,200,600" FontSize="20">
+		        0:
+	        </TextBlock>
+	        <TextBlock Margin="-215,334,200,600" FontSize="20">
+		        1:
+	        </TextBlock>
+	        <TextBlock Margin="-215,366,200,600" FontSize="20">
+		        2:
+	        </TextBlock>
+	        <TextBlock Margin="-215,398,200,600" FontSize="20">
+		        3:
+	        </TextBlock>
+	        <TextBlock Margin="-220,432,200,600" FontSize="20">
+		        4:
+	        </TextBlock>
+	        <TextBlock Margin="-220,464,200,600" FontSize="20">
+		        5:
+	        </TextBlock>
+	        <TextBlock Margin="-220,496,200,600" FontSize="20">
+		        6:
+	        </TextBlock>
+	        <TextBlock Margin="-220,530,200,600" FontSize="20">
+		        7:
+	        </TextBlock>
+	        <TextBlock Margin="-220,560,200,600" FontSize="20">
+		        8:
+	        </TextBlock>
+	        <TextBlock Margin="-220,592,200,600" FontSize="20">
+		        9:
+	        </TextBlock>
+	        
+	        <TextBlock Margin="-140,303,200,600" FontSize="20">
+		        0:
+	        </TextBlock>
+	        <TextBlock Margin="-215,334,200,600" FontSize="20">
+		        1:
+	        </TextBlock>
+	        <TextBlock Margin="-218,366,200,600" FontSize="20">
+		        2:
+	        </TextBlock>
+	        <TextBlock Margin="-218,398,200,600" FontSize="20">
+		        3:
+	        </TextBlock>
+	        <TextBlock Margin="-220,432,200,600" FontSize="20">
+		        4:
+	        </TextBlock>
+	        <TextBlock Margin="-220,464,200,600" FontSize="20">
+		        5:
+	        </TextBlock>
+	        <TextBlock Margin="-220,496,200,600" FontSize="20">
+		        6:
+	        </TextBlock>
+	        <TextBlock Margin="-220,530,200,600" FontSize="20">
+		        7:
+	        </TextBlock>
+	        <TextBlock Margin="-220,560,200,600" FontSize="20">
+		        8:
+	        </TextBlock>
+	        <TextBlock Margin="-220,592,200,600" FontSize="20">
+		        9:
+	        </TextBlock>
+	        
+	        <TextBlock Margin="-145,303,200,600" FontSize="20">
+		        0:
+	        </TextBlock>
+	        <TextBlock Margin="-220,334,200,600" FontSize="20">
+		        1:
+	        </TextBlock>
+	        <TextBlock Margin="-220,366,200,600" FontSize="20">
+		        2:
+	        </TextBlock>
+	        <TextBlock Margin="-220,398,200,600" FontSize="20">
+		        3:
+	        </TextBlock>
+	        <TextBlock Margin="-220,432,200,600" FontSize="20">
+		        4:
+	        </TextBlock>
+	        <TextBlock Margin="-220,464,200,600" FontSize="20">
+		        5:
+	        </TextBlock>
+	        <TextBlock Margin="-220,496,200,600" FontSize="20">
+		        6:
+	        </TextBlock>
+	        <TextBlock Margin="-220,530,200,600" FontSize="20">
+		        7:
+	        </TextBlock>
+	        <TextBlock Margin="-220,560,200,600" FontSize="20">
+		        8:
+	        </TextBlock>
+	        <TextBlock Margin="-220,592,200,600" FontSize="20">
+		        9:
+	        </TextBlock>
+	</StackPanel>
+</Window>
